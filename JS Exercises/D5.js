@@ -61,7 +61,7 @@ const cars = [
   },
 ];
 
-for (let i = 0; i > cars.length; i++) {}
+for (let i = 0; i < cars.length; i++) {}
 
 /* ESERCIZIO 6
     Scrivi del codice per aggiungere un nuovo oggetto in ultima posizione nell'array "cars", rispettando la struttura degli altri elementi.
